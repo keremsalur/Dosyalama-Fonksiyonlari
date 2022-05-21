@@ -1,4 +1,4 @@
-# Dosyalama-Fonksiyonlari
+# Dosyalama Fonksiyonları
 Uygulamanın amacı C dilinde dosyalama işlemlerini 
 gerçekleştirmektir. Program öğrenci bilgilerini bir binary 
 dosyaya yazar ve ekranda gösterir. Kullanıcı yeni kayıt 
